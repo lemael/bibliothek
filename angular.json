@@ -120,5 +120,8 @@
         }
       }
     }},
-  "defaultProject": "bibliothek"
+  "defaultProject": "bibliothek",
+  "cli": {
+    "analytics": "1f96ef00-d96c-4dbe-b27c-40db30ffd912"
+  }
 }
